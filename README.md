@@ -10,7 +10,7 @@
 | 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos 2. Os exercícios foram retirados do site CodeForces. [Codeforces](https://codeforces.com/)
+Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos 2. Os exercícios foram retirados do site [Codeforces](https://codeforces.com/).
 
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
