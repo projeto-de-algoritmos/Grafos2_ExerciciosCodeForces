@@ -1,0 +1,59 @@
+#include <bits/stdc++.h>
+using namespace std;
+typedef long long ll;
+vector<int> v[300005], c[300005], id[300005];
+ll dis[300005];
+int pre[300005], len[300005];
+bool vis[300005];
+int n, m, s;
+
+struct Node{
+	int id;
+	ll d;
+	bool operator <(const Node &b) const{
+		return d > b.d;
+	}
+};
+
+int main(){
+	scanf("%d%d", &n, &m);
+
+	for (int i = 1; i <= m; i++){
+		int a, b, w;
+		scanf("%d%d%d", &a, &b, &w);
+		v[a].push_back(b); c[a].push_back(w); id[a].push_back(i);
+		v[b].push_back(a); c[b].push_back(w); id[b].push_back(i);
+	}
+
+	scanf("%d", &s);
+	priority_queue<Node> q;
+	q.push((Node){s, 0});
+	memset(dis, 0x3f, sizeof(dis));
+	dis[s] = 0;
+	ll sum = 0;
+	vector<int> ans;
+
+	while (!q.empty()){
+		Node now = q.top(); q.pop();
+		if (vis[now.id]) continue;
+		vis[now.id] = 1;
+		if (now.id != s){
+			sum += len[now.id];
+			ans.push_back(pre[now.id]);
+		}
+		for (int i = 0; i < v[now.id].size(); i++){
+			if (dis[v[now.id][i]] >= dis[now.id] + c[now.id][i]){
+				dis[v[now.id][i]] = dis[now.id] + c[now.id][i];
+				pre[v[now.id][i]] = id[now.id][i];
+				len[v[now.id][i]] = c[now.id][i];
+				q.push((Node){v[now.id][i], dis[v[now.id][i]]});
+			}
+		}
+	}
+
+	printf("%lld\n", sum);
+	
+	for (int i = 0; i < ans.size(); i++) printf("%d ", ans[i]); 
+	return 0;
+}
+		  	 			  		  	 	 		    	  			
