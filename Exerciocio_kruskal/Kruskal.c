@@ -54,7 +54,10 @@ int main(){
     }
 }
 
+
 /*
+Exemplo de entrada
+
 5 7
 1 2 3
 1 3 1
@@ -63,4 +66,16 @@ int main(){
 2 5 3
 3 4 2
 4 5 4
+*/
+
+/*
+Exemplo de saída
+
+9
+8
+11
+8
+8
+8
+9
 */
