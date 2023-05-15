@@ -86,4 +86,7 @@ Rode os exercícios de acordo com a linguagem respectiva:
        
        
 ##Vídeo
-https://unbbr-my.sharepoint.com/:v:/g/personal/190101792_aluno_unb_br/EYLAk3jpt9tClG5_tgy4SCkBiLpIpyrRvqCqJWh9s5wYwQ?email=dias.mateus%40aluno.unb.br
+
+
+https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/2fa990ad-496e-4920-93f6-3f7810c8add2
+
