@@ -10,7 +10,7 @@
 | 19/0101792  |  Ana Carolina Rodrigues Leite |
 
 ## Sobre 
-Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Grafos 2, que incluem: Algoritmo de Prim, Algoritmo de Dijkstra, Algoritmo de Kruskal e o Algoritmo de Reverse Delete. Os exercícios foram retirados dos sites [Codeforces](https://codeforces.com/) e [Beecrowd](https://www.beecrowd.com.br/judge/pt/login).
+Este projeto foi feito com a resolução de 4 exercícios abordando os temas de Grafos 2, que incluem: Algoritmo de Prim, Algoritmo de Dijkstra e o Algoritmo de Kruskal. Os exercícios foram retirados dos sites [Codeforces](https://codeforces.com/) e [Beecrowd](https://www.beecrowd.com.br/judge/pt/login).
 
 ## Screenshots
 ### Exercicio 1 - "Minimum spanning tree for each edge"
