@@ -15,7 +15,7 @@ Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos
 ## Screenshots
 #Exercicio1 - "Minimum spanning tree for each edge"
 
-*Nível do exercício: Médio
+**Nível do exercício:** Médio
 
 Para acessar a página do exercício [clique aqui](https://codeforces.com/problemset/problem/609/E)
 
@@ -30,7 +30,7 @@ OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, com
 ## Screenshots
 #Exercicio1 - "Paths and Trees"
 
-*Nível do exercício: Médio
+**Nível do exercício:** Médio
 
 Para acessar a página do exercício [clique aqui](https://codeforces.com/problemset/problem/545/E?csrf_token=953aa652504f4b5f367b3d47a788ab15)
 
