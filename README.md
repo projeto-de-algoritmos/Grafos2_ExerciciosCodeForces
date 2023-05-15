@@ -85,8 +85,8 @@ Rode os exercícios de acordo com a linguagem respectiva:
        gcc c –o [nome_do_programa].exe [nome_do_programa].c
        
        
-##Vídeo
+## Vídeo
 
-
+Vídeo sobre os exercícios 1 e 2
 https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/2fa990ad-496e-4920-93f6-3f7810c8add2
 
