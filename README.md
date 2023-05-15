@@ -83,3 +83,7 @@ Rode os exercícios de acordo com a linguagem respectiva:
       pyhton nome_programa.py
   - Para os exercícios em C, rode o comando:
        gcc c –o [nome_do_programa].exe [nome_do_programa].c
+       
+       
+##Vídeo
+https://unbbr-my.sharepoint.com/:v:/g/personal/190101792_aluno_unb_br/EYLAk3jpt9tClG5_tgy4SCkBiLpIpyrRvqCqJWh9s5wYwQ?email=dias.mateus%40aluno.unb.br
