@@ -48,6 +48,9 @@ OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, com
 
 Esse exercício foi implementado com o algoritmo de Prim, feito na plataforma do [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2404).
 
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/49570180/face3421-c618-4921-b2fc-fac300589007)
+
+
 ## Instalação 
 **Linguagem**: C<br>
 
@@ -59,6 +62,9 @@ OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, com
 ### Exercício 2 - Dijkstra?
 
 Esse exercício foi implementado com o algoritmo de Dijkstra, feito na plataforma do [Codeforces](https://codeforces.com/contest/20/problem/C).
+
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/49570180/07c14ab5-bc2a-49b7-90c8-ad18257ad31a)
+
 
 ## Instalação 
 **Linguagem**: Python<br>
