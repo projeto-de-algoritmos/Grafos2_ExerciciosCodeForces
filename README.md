@@ -13,6 +13,32 @@
 Este projeto se trata da resolução de 4 exercícios abordando o tema de Grafos 2. Os exercícios foram retirados do site [Codeforces](https://codeforces.com/).
 
 ## Screenshots
+#Exercicio1 - "Minimum spanning tree for each edge"
+**Nível do exercício: Médio
+
+Para acessar a página do exercício [clique aqui](https://codeforces.com/problemset/problem/609/E)
+
+
+
+## Instalação 
+**Linguagem**: C++<br>
+
+Para compilar o código corretamente utilize o compilador GNU G++17 7.3.0
+OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, como o GNU Compiler Collection (GCC). No entanto, é importante observar que o uso dessa biblioteca não é portátil e pode não funcionar em todos os compiladores ou sistemas operacionais. Se for o caso utilize um compilador Online.
+
+## Screenshots
+#Exercicio1 - "Paths and Trees"
+**Nível do exercício: Médio
+
+Para acessar a página do exercício [clique aqui](https://codeforces.com/problemset/problem/545/E?csrf_token=953aa652504f4b5f367b3d47a788ab15)
+
+## Instalação 
+**Linguagem**: C++<br>
+
+Para compilar o código corretamente utilize o compilador GNU G++17 7.3.0
+OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, como o GNU Compiler Collection (GCC). No entanto, é importante observar que o uso dessa biblioteca não é portátil e pode não funcionar em todos os compiladores ou sistemas operacionais. Se for o caso utilize um compilador Online.
+
+## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
 
 ## Instalação 
