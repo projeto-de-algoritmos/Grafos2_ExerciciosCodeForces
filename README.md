@@ -19,12 +19,15 @@ Este projeto foi feito com a resolução de 4 exercícios abordando os temas de 
 
 Para acessar a página do exercício [clique aqui](https://codeforces.com/problemset/problem/609/E).
 
-Neste exercício foi implementado o algoritmo de Kruskal.
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/0a3a8600-dcf1-41f0-9660-5eff24ea5716)
+
+Neste exercício foi implementado o algoritmo de Kruskal. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, accepted.
 
 ## Instalação 
 **Linguagem**: C++<br>
 
 Para compilar o código corretamente utilize o compilador GNU G++17 7.3.0
+
 OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, como o GNU Compiler Collection (GCC). No entanto, é importante observar que o uso dessa biblioteca não é portátil e pode não funcionar em todos os compiladores ou sistemas operacionais. Se for o caso utilize um compilador Online.
 
 ## Screenshots
@@ -34,17 +37,20 @@ OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, com
 
 Para acessar a página do exercício [clique aqui](https://codeforces.com/problemset/problem/545/E?csrf_token=953aa652504f4b5f367b3d47a788ab15).
 
-Neste exercício foi implementado o algoritmo de Dijkstra.
+![image](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/6c45e26f-cb7b-4a31-a35a-3439e0435845)
+
+Neste exercício foi implementado o algoritmo de Dijkstra. A imagem demonstra o problema escolhido, parte do código e a nota, no caso, accepted.
 
 ## Instalação 
 **Linguagem**: C++<br>
 
 Para compilar o código corretamente utilize o compilador GNU G++17 7.3.0
+
 OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, como o GNU Compiler Collection (GCC). No entanto, é importante observar que o uso dessa biblioteca não é portátil e pode não funcionar em todos os compiladores ou sistemas operacionais. Se for o caso utilize um compilador Online.
 
 ## Screenshots
 
-### Exercício 1 - Reduzindo Detalhes em um Mapa
+### Exercício 3 - Reduzindo Detalhes em um Mapa
 
 Esse exercício foi implementado com o algoritmo de Prim, feito na plataforma do [Beecrowd](https://www.beecrowd.com.br/judge/pt/problems/view/2404).
 
@@ -59,7 +65,7 @@ OBS: Essa biblioteca é uma conveniência encontrada em alguns compiladores, com
 
 ## Screenshots
 
-### Exercício 2 - Dijkstra?
+### Exercício 4 - Dijkstra?
 
 Esse exercício foi implementado com o algoritmo de Dijkstra, feito na plataforma do [Codeforces](https://codeforces.com/contest/20/problem/C).
 
