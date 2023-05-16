@@ -90,3 +90,6 @@ Rode os exercícios de acordo com a linguagem respectiva:
 Vídeo sobre os exercícios 1 e 2
 https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/80906504/2fa990ad-496e-4920-93f6-3f7810c8add2
 
+
+Vídeo sobre os exercícios 3 e 4
+https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosCodeForces/assets/49570180/0a057338-9585-445b-9972-ffe40ab77bdf
